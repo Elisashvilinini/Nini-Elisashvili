@@ -1,0 +1,33 @@
+body {background-color:#F0FFFF;}
+a {text-decoration: none; color:green;}
+a:hover {color:blue;}
+
+.text {color: blue;}
+.header-table {width: 100%; padding:0px; margin:0px;}
+
+.td-logo {font-weight: bold; font-size:40px; margin-left: 1px;  padding: 0px; width:auto; height:auto; float:left;}
+
+.td-menu {display:flex; font-size:18px; font-weight: bold; margin-right: 1px; margin: 0px; padding: 0px; width:auto; height:auto; float:right;}
+
+.menu-list-start {padding-right:15px;}
+.menu-list-stop {padding-left:15px;}
+
+.content-border {border-radius:15px; background-color: sky;}
+.content-title {font-size:30px;font-family: vardana; font-weight: bold; color:#033E3E;}
+.content-description {padding-left:15px;font-size:20px;font-family: arial; font-style: italic; color:CadetBlue;}
+.content {width:95%;}
+.content-image {border-radius:15px;}
+
+.about-content-title {font-size:50px;font-family: arial; font-weight: bold; color:#804A00;}
+.about-content-description {padding-left:15px; font-size:25px;font-family: arial; font-style: italic;color:#C36241;}
+
+.content-left {width:47.5%;}
+.content-right {width:47.5%;}
+
+footer {padding:15px; border: 1px solid SteelBlue;background-color: PaleTurquoise;border-radius:15px; width:auto; height:auto;}
+.footer-info {width:100%; border:}
+.email {width: 270px;float:left;}
+.social {width:auto; margin:auto;}
+.tel {width: 110px; float:right;}
+
+.fixed-bottom {position: absolute; width:97%; bottom: 5px;}
